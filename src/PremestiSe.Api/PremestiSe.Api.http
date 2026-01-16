@@ -1,0 +1,6 @@
+@PremestiSe.Api_HostAddress = http://localhost:5189
+
+GET {{PremestiSe.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

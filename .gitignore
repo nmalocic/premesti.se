@@ -52,3 +52,9 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# Claude Code
+# Keep .claude/agents/ and .claude/skills/ (project standards)
+# Ignore personal settings and temporary files
+.claude/settings.json
+.claude/plans/
